@@ -1,5 +1,7 @@
 # 🕵️ Murder File Viewing Game (Python)
 
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white) ![CLI](https://img.shields.io/badge/ui-cli-blue) ![FileIO](https://img.shields.io/badge/i⁄o-files-blue) ![Logic](https://img.shields.io/badge/logic-game--engine-blue)
+
 An immersive Python-based detective game where players explore files, decode evidence, and uncover clues to solve a murder mystery. This project demonstrates practical file handling, menu-driven interfaces, and narrative game design.
 
 ---
